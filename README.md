@@ -17,9 +17,6 @@ I’m Freelance at Frontend development<br>I’ve JavaScript, Python, C/C++<br>I
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AparinAA&icon=2&color=5)](https://visitcount.itsvg.in)
 
