@@ -1,4 +1,4 @@
-#Hi, I'm Aleksandr!
+# Hi, I'm Aleksandr!
 
 # 💫 About Me:
 I’m Freelance at Frontend development<br>I’ve JavaScript, Python, C/C++<br>I’ve React, Redux, Next.js, Bootstrap, Node.js, Express.js, Django<br>I’m learning mathematic and programming <br>I like ski, run and eat
