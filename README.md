@@ -1,7 +1,7 @@
 ### Hi, I'm Aleksandr!
 
 # About Me:
-I’m Freelance at Full-stack development 😎<br>I'm strong in JavaScript, Python, C/C++ 💪<br>I use React, Redux, Next.js, Bootstrap, Node.js, Express.js, Django 🤌<br>I’m pro in mathematics and algorithm 🤓<br>I like skiing, to running and to eating 🤤
+I’m Freelance at Full-stack development 😎<br>I'm strong in JavaScript, Python, C/C++ 💪<br>I use React, Redux, Next.js, Bootstrap, Node.js, Express.js, Django 🤌<br>I’m pro in mathematics and algorithms 🤓<br>I like skiing, to running and to eating 🤤
 
 
 ## 🌐 Socials:
