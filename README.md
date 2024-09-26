@@ -1,6 +1,6 @@
 ### Hi, I'm Aleksandr!
 
-I’m Freelance at Full-stack development 😎<br>I'm strong in JavaScript, Python 💪<br>I use React, Redux, Next.js, Bootstrap, Node.js, Express.js, Django 🤌<br>I’m pro in mathematics and algorithms 🤓<br>I like skiing, to running and to eating 🤤  
+I’m Freelance at Full-stack development 😎<br>I'm strong in JavaScript, Python 💪<br>I use React, Redux, Next.js, Node.js, Express.js, Django 🤌<br>I’m pro in mathematics and algorithms 🤓<br>I like skiing, to running and to eating 🤤  
 
 I'm looking for remote job
 
