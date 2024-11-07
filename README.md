@@ -4,7 +4,7 @@ I’m Freelance at Full-stack development 😎<br>I'm strong in JavaScript, Pyth
 
 I'm looking for remote job
 
-More information on [my website](https://www.aparinaleksandr.site/)  
+More information on [my website](https://www.aleksandraparin.me/)  
 
 Nice to meet ya!
 
