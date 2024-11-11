@@ -4,7 +4,7 @@ I’m Freelance at Full-stack development 😎<br>I'm strong in JavaScript, Pyth
 
 I'm looking for remote job
 
-More information on <a href="https://www.aleksandraparin.site/" target="_blank">my website</a>  
+More information on [my website](https://www.aleksandraparin.site/) 
 
 Nice to meet ya!
 
